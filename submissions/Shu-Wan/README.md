@@ -1,5 +1,5 @@
 ---
-team: example
+team: Shu-Wan
 members:
   - name: Shu Wan
     email: 15952765+Shu-Wan@users.noreply.github.com
@@ -7,10 +7,10 @@ repository: https://github.com/Shu-Wan/nanoTSFM
 ai_disclosure: Code, runs and report prepared with Claude Code under the author's direction; every number comes from a run.
 ---
 
-# example
+# Shu-Wan
 
-A worked example of a submission: one change to how training windows are drawn, three seeds for
-each setting, and an ablation. It trains in under two minutes, like the baseline.
+One change to how training windows are drawn, tested with three seeds for each setting and an
+ablation. It trains in under two minutes, like the baseline.
 
 ## Hypothesis
 
